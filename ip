@@ -1,3 +1,3 @@
 #!/bin/bash
 IP=$( ip a | sed -n '13p' | awk '{print $2}' )
-echo For this Ubuntu WSL, MY IP is $IP 
+echo For this Ubuntu WSL, MY IP is $IP Thank you
