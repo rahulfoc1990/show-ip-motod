@@ -1,0 +1,7 @@
+If you are using Ubuntu WSL and want to display your IP as welcome message while the terminal startup. You can update the file in the folder /etc/update-motd.d/
+
+Please make sure to check the file permission and ownership
+
+Enjoy.
+
+
