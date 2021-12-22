@@ -4,6 +4,6 @@ If you are using Ubuntu WSL and want to display your IP as welcome message while
 
 Please make sure to check the file permission and ownership. It should be root:root and 755
 
-Enjoy.
+Please try and Enjoy
 
 
